@@ -1,2 +1,0 @@
-# TripleTen-Sprints
-Bootcamp Projects
